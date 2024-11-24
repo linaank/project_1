@@ -21,6 +21,17 @@
 
 - **Build a Tic-Tac-Toe Game With Python and Tkinter**
 
-**YouTube:**   
+**uproger.com:**   
 
-- **Уроки Python/Как сделать игру Крестики Нолики (мастер-класс) by Exploring the IT World/Oleg Shpagin **
+- **Tic Tac Toe с использованием Tkinter**
+
+**pythonhint.com:**
+
+- **How to highlight text in a tkinter Text widget**
+
+---
+
+## Пример использования:
+
+Устали от обычных "Крестиков-ноликов"? Предлагаю убить время с друзьями между парами, играя в "Кошечки-собачки"! Если вы не любите собачек и котов, то вы странный человек и это игра не для вас....
+
