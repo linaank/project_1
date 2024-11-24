@@ -1,2 +1,2 @@
-библиотека tkinter
-верся python>=3.6
+tkinter
+python>=3.6
